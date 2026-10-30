@@ -146,16 +146,76 @@
         "🫂"
       ],
       "memoryEmojis": [
-        { "id": "emoji1", "emoji": "🖤", "name": "Black Heart", "glow": "#93c5fd", "glowSoft": "rgba(147, 197, 253, 0.5)" },
-        { "id": "emoji2", "emoji": "💙", "name": "Blue Heart", "glow": "#38bdf8", "glowSoft": "rgba(56, 189, 248, 0.55)" },
-        { "id": "emoji3", "emoji": "✨", "name": "Sparkles", "glow": "#fde047", "glowSoft": "rgba(253, 224, 71, 0.6)" },
-        { "id": "emoji4", "emoji": "🍂", "name": "October Leaf", "glow": "#fb923c", "glowSoft": "rgba(251, 146, 60, 0.6)" },
-        { "id": "emoji5", "emoji": "🫂", "name": "Warm Hug", "glow": "#a5b4fc", "glowSoft": "rgba(165, 180, 252, 0.6)" },
-        { "id": "emoji6", "emoji": "🌸", "name": "Cherry Blossom", "glow": "#f472b6", "glowSoft": "rgba(244, 114, 182, 0.6)" },
-        { "id": "emoji7", "emoji": "🌙", "name": "Crescent Moon", "glow": "#e2e8f0", "glowSoft": "rgba(226, 232, 240, 0.6)" },
-        { "id": "emoji8", "emoji": "🦋", "name": "Butterfly", "glow": "#67e8f9", "glowSoft": "rgba(103, 232, 249, 0.6)" },
-        { "id": "emoji9", "emoji": "🧸", "name": "Teddy Bear", "glow": "#fcd34d", "glowSoft": "rgba(252, 211, 77, 0.6)" },
-        { "id": "emoji10", "emoji": "♾️", "name": "Infinity Bond", "glow": "#34d399", "glowSoft": "rgba(52, 211, 153, 0.6)" }
+        {
+          "id": "emoji1",
+          "emoji": "🖤",
+          "name": "Black Heart",
+          "glow": "#93c5fd",
+          "glowSoft": "rgba(147, 197, 253, 0.5)"
+        },
+        {
+          "id": "emoji2",
+          "emoji": "💙",
+          "name": "Blue Heart",
+          "glow": "#38bdf8",
+          "glowSoft": "rgba(56, 189, 248, 0.55)"
+        },
+        {
+          "id": "emoji3",
+          "emoji": "✨",
+          "name": "Sparkles",
+          "glow": "#fde047",
+          "glowSoft": "rgba(253, 224, 71, 0.6)"
+        },
+        {
+          "id": "emoji4",
+          "emoji": "🍂",
+          "name": "October Leaf",
+          "glow": "#fb923c",
+          "glowSoft": "rgba(251, 146, 60, 0.6)"
+        },
+        {
+          "id": "emoji5",
+          "emoji": "🫂",
+          "name": "Warm Hug",
+          "glow": "#a5b4fc",
+          "glowSoft": "rgba(165, 180, 252, 0.6)"
+        },
+        {
+          "id": "emoji6",
+          "emoji": "🌸",
+          "name": "Cherry Blossom",
+          "glow": "#f472b6",
+          "glowSoft": "rgba(244, 114, 182, 0.6)"
+        },
+        {
+          "id": "emoji7",
+          "emoji": "🌙",
+          "name": "Crescent Moon",
+          "glow": "#e2e8f0",
+          "glowSoft": "rgba(226, 232, 240, 0.6)"
+        },
+        {
+          "id": "emoji8",
+          "emoji": "🦋",
+          "name": "Butterfly",
+          "glow": "#67e8f9",
+          "glowSoft": "rgba(103, 232, 249, 0.6)"
+        },
+        {
+          "id": "emoji9",
+          "emoji": "🧸",
+          "name": "Teddy Bear",
+          "glow": "#fcd34d",
+          "glowSoft": "rgba(252, 211, 77, 0.6)"
+        },
+        {
+          "id": "emoji10",
+          "emoji": "♾️",
+          "name": "Infinity Bond",
+          "glow": "#34d399",
+          "glowSoft": "rgba(52, 211, 153, 0.6)"
+        }
       ]
     },
     "finishPrompt": "So you're excited for what I made for you? 💌",
